@@ -22,3 +22,7 @@ nav {
   color: #e49499;
   cursor: pointer;
 }
+
+.fa-bars:hover {
+  color: black;
+}
