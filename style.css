@@ -9,3 +9,16 @@ body {
 ul {
   list-style-type: none;
 }
+
+a {
+  text-decoration: none;
+}
+nav {
+  background: white;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+.fa-bars {
+  font-size: 1.5rem;
+  color: #e49499;
+  cursor: pointer;
+}
