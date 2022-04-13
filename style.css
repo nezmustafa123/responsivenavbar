@@ -32,4 +32,10 @@ nav {
   letter-spacing: 0.1rem;
   display: block;
   padding: 0.5rem 1rem;
+  transition: all 0.3s linear;
+}
+
+.menu a:hover {
+  color: #e94949;
+  background: #f8a5a5;
 }
