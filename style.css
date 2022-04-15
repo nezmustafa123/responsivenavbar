@@ -44,8 +44,12 @@ nav {
 .menu {
   height: 0;
   overflow: hidden;
+  transition: all 0.3s linear;
 }
-
+.show-menu {
+  height: 10rem;
+  /* add class show menu with javascript */
+}
 .nav-header {
   display: flex;
   align-items: center;
@@ -80,5 +84,4 @@ nav {
     padding: 0;
     background: transparent;
   }
-  .
 }
